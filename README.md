@@ -5,12 +5,40 @@ Cada uno de los contenidos que se ven durante la materia estará documentado en 
 
 ## Ejecución
 
-Para correr cualquier proyecto de los que figuran en este repositorio basta con abrir su archivo de solución *.sln* y luego ejecutarlo dentro del Visual Studio (Community 2019).
+Para correr cualquier proyecto de los que figuran en este repositorio basta con abrir su archivo de solución ***.sln*** y luego ejecutarlo dentro del Visual Studio (Community 2019). 
+
+El código del programa principal de cada proyecto se encuentra en su correspondiente archivo ***Program.cs***
 
 ## Descripción de los proyectos
 
 ### 00 - Hola Mundo
 En este proyecto podrás ver cómo realizar el típico Hello World en C#
 
+```c#
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello World!");
+    }
+}
+```
+
 ### 01 - Introducción a Rutinas
 Una pequeña demostración de cómo definir una rutina "Saludar" y llamarla, enviando como parámetro, dos valores diferentes para la variable de tipo string "nombre"
+
+```c#
+class Program
+    {
+        static void Main(string[] args)
+        {
+            Saludar("Raquel");
+            Saludar("Pamela");
+        }
+
+        static void Saludar(string nombre)
+        {
+            Console.WriteLine("Hola, " + nombre);
+        }
+    }
+```
