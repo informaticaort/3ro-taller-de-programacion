@@ -1,10 +1,16 @@
 # Taller de Programación 1
-Repositorio de la materia Taller de Programación, correspondiente al tercer año de la orientación
+Repositorio de la materia Taller de Programación, correspondiente al tercer año de la orientación Informática.
 
-Cada una de las clases y contenidos que se ven durante la materia estará documentado en un archivo, en donde podrás ver ejemplos prácticos de su aplicación.
+Cada uno de los contenidos que se ven durante la materia estará documentado en un proyecto, en donde podrás ver ejemplos prácticos de su aplicación.
 
-## 00 - Hola Mundo
-En este documento podrás ver cómo realizar el típico Hello World en C++
+## Ejecución
 
-## 01 - Introducción a Rutinas
-Una pequeña demostración de cómo definir una rutina "saludar" y llamarla, enviando como parámetro, dos valores diferentes para la variable "nombre"
+Para correr cualquier proyecto de los que figuran en este repositorio basta con abrir su archivo de solución *.sln* y luego ejecutarlo dentro del Visual Studio (Community 2019).
+
+## Descripción de los proyectos
+
+### 00 - Hola Mundo
+En este proyecto podrás ver cómo realizar el típico Hello World en C#
+
+### 01 - Introducción a Rutinas
+Una pequeña demostración de cómo definir una rutina "Saludar" y llamarla, enviando como parámetro, dos valores diferentes para la variable de tipo string "nombre"

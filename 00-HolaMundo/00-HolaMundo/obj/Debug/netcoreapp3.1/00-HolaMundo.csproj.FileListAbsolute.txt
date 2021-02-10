@@ -1,0 +1,11 @@
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\bin\Debug\netcoreapp3.1\00-HolaMundo.exe
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\bin\Debug\netcoreapp3.1\00-HolaMundo.deps.json
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\bin\Debug\netcoreapp3.1\00-HolaMundo.runtimeconfig.json
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\bin\Debug\netcoreapp3.1\00-HolaMundo.runtimeconfig.dev.json
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\bin\Debug\netcoreapp3.1\00-HolaMundo.dll
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\bin\Debug\netcoreapp3.1\00-HolaMundo.pdb
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\obj\Debug\netcoreapp3.1\00-HolaMundo.csprojAssemblyReference.cache
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\obj\Debug\netcoreapp3.1\00-HolaMundo.AssemblyInfoInputs.cache
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\obj\Debug\netcoreapp3.1\00-HolaMundo.AssemblyInfo.cs
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\obj\Debug\netcoreapp3.1\00-HolaMundo.dll
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\00-HolaMundo\00-HolaMundo\obj\Debug\netcoreapp3.1\00-HolaMundo.pdb
