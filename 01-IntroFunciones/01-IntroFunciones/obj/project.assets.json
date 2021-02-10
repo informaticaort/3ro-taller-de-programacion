@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezequiel.binker\\Desktop\\3ro-taller-de-programacion\\01-IntroRutinas\\01-IntroRutinas\\01-IntroRutinas.csproj",
-      "projectName": "01-IntroRutinas",
-      "projectPath": "C:\\Users\\ezequiel.binker\\Desktop\\3ro-taller-de-programacion\\01-IntroRutinas\\01-IntroRutinas\\01-IntroRutinas.csproj",
+      "projectUniqueName": "C:\\Users\\ezequiel.binker\\Desktop\\3ro-taller-de-programacion\\01-IntroFunciones\\01-IntroFunciones\\01-IntroFunciones.csproj",
+      "projectName": "01-IntroFunciones",
+      "projectPath": "C:\\Users\\ezequiel.binker\\Desktop\\3ro-taller-de-programacion\\01-IntroFunciones\\01-IntroFunciones\\01-IntroFunciones.csproj",
       "packagesPath": "C:\\Users\\ezequiel.binker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezequiel.binker\\Desktop\\3ro-taller-de-programacion\\01-IntroRutinas\\01-IntroRutinas\\obj\\",
+      "outputPath": "C:\\Users\\ezequiel.binker\\Desktop\\3ro-taller-de-programacion\\01-IntroFunciones\\01-IntroFunciones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

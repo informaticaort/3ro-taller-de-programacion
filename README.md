@@ -24,8 +24,8 @@ class Program
 }
 ```
 
-### 01 - Introducción a Rutinas
-Una pequeña demostración de cómo definir una rutina "Saludar" y llamarla, enviando como parámetro, dos valores diferentes para la variable de tipo string "nombre"
+### 01 - Introducción a Funciones
+Una pequeña demostración de cómo definir una función "Saludar" y llamarla, enviando como parámetro, dos valores diferentes para la variable de tipo string "nombre"
 
 ```c#
 class Program

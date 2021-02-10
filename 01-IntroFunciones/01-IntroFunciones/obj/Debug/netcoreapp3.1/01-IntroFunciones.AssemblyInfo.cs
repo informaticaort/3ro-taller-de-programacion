@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("01-IntroRutinas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("01-IntroFunciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("01-IntroRutinas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("01-IntroRutinas")]
+[assembly: System.Reflection.AssemblyProductAttribute("01-IntroFunciones")]
+[assembly: System.Reflection.AssemblyTitleAttribute("01-IntroFunciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

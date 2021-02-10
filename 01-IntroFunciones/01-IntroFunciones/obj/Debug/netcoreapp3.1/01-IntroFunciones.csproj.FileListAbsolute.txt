@@ -1,0 +1,11 @@
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\bin\Debug\netcoreapp3.1\01-IntroFunciones.exe
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\bin\Debug\netcoreapp3.1\01-IntroFunciones.deps.json
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\bin\Debug\netcoreapp3.1\01-IntroFunciones.runtimeconfig.json
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\bin\Debug\netcoreapp3.1\01-IntroFunciones.runtimeconfig.dev.json
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\bin\Debug\netcoreapp3.1\01-IntroFunciones.dll
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\bin\Debug\netcoreapp3.1\01-IntroFunciones.pdb
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\obj\Debug\netcoreapp3.1\01-IntroFunciones.csprojAssemblyReference.cache
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\obj\Debug\netcoreapp3.1\01-IntroFunciones.AssemblyInfoInputs.cache
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\obj\Debug\netcoreapp3.1\01-IntroFunciones.AssemblyInfo.cs
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\obj\Debug\netcoreapp3.1\01-IntroFunciones.dll
+C:\Users\ezequiel.binker\Desktop\3ro-taller-de-programacion\01-IntroFunciones\01-IntroFunciones\obj\Debug\netcoreapp3.1\01-IntroFunciones.pdb
